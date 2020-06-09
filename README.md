@@ -2,8 +2,9 @@
   Country Flag SVG and PNG Format
 </h1>
 
-## Country List JSON Format
-👉 Country [JSON format](https://github.com/ekaone/Country-List)
+## Some related stuff
+- 👉 Country [List JSON](https://github.com/ekaone/Country-List)
+- 👉 Country [Languages](https://github.com/ekaone/Country-Language)
 
 ## Author
 ✔ Eka Prasetia 🤵
